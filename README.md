@@ -15,3 +15,21 @@
         </div>
     </body>
 </html>
+.card-img{
+    width:150px;
+}
+body{
+    margin:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.Card{
+    width:400px;
+    margin:0 auto;
+    padding:20px;
+    display:flex;
+    justify-content: space-around;
+    text-align:center;
+    background:lightblue;
+    color:#2b2839;
+    border-bottom:6px solid plum;
+}
